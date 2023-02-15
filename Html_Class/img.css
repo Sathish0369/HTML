@@ -1,0 +1,25 @@
+.a{
+    color: blueviolet;
+}
+.b
+{
+border-radius: 200px;
+border-bottom: 10px;
+border-bottom-left-radius: 25%;
+filter: grayscale(1);
+}
+.c
+{
+border-width: 555px;
+border-right: 60px;
+}
+.d
+{
+border-radius: 510px;
+border-style:dotted=100px;
+}
+.e
+{
+border-top: 93px;
+border-right: 93px;
+}

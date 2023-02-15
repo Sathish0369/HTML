@@ -1,0 +1,35 @@
+ul{
+    display: flex;
+    list-style-type: none;
+    background-color: black;
+}
+
+a{
+    text-decoration: none;
+    margin-left: 100px;
+    color: aliceblue;
+}
+.k{
+    color: aliceblue;
+}
+.m{
+    color: aqua;
+}
+#home
+{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5Or8KtieIDtS6m4Tb81URM0AFLF_SPJs285eW-KaxMImh7dc9FWXGnIP8lD_lZbu8eYI&usqp=CAU);
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+#info
+{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5Or8KtieIDtS6m4Tb81URM0AFLF_SPJs285eW-KaxMImh7dc9FWXGnIP8lD_lZbu8eYI&usqp=CAU);
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+#about
+{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5Or8KtieIDtS6m4Tb81URM0AFLF_SPJs285eW-KaxMImh7dc9FWXGnIP8lD_lZbu8eYI&usqp=CAU);
+    background-repeat:no-repeat;
+    background-size:cover;
+}

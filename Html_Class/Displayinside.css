@@ -1,0 +1,30 @@
+.a{
+    display: inline-block;
+}
+#ab{
+    height: 600px;
+    width: 400px;
+    border: 10px solid rgb(red, green, blue);
+    margin-top: 900px;
+    margin-bottom: 1000px;
+}
+.b{
+    height: 150px;
+    width: 150px;
+    background-color: gold;
+}
+.c{
+    height: 150px;
+    width: 150px;
+    background-color:maroon;
+}
+.d{
+    height: 150px;
+    width: 150px;
+    background-color: indigo;
+}
+.e{
+    height: 150px;
+    width: 150px;
+    background-color:aqua;
+}

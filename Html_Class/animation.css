@@ -1,0 +1,23 @@
+#a
+{
+    background-color: black;
+    animation: abc 4s infinite;
+}
+@keyframes abc{
+    45%{
+        background-color: orange;
+    }
+    50%{
+        background-color: springgreen;
+    }
+    74%{
+        background-color: pink;
+    }
+    100%{
+        background-color: chartreuse;
+    }
+    45%{
+        background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5Or8KtieIDtS6m4Tb81URM0AFLF_SPJs285eW-KaxMImh7dc9FWXGnIP8lD_lZbu8eYI&usqp=CAU);
+    
+    }
+}

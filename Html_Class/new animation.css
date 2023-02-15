@@ -1,0 +1,18 @@
+#b{
+    animation: abbc 4s infinite;
+}
+@keyframes abbc{
+    25%{
+        background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5Or8KtieIDtS6m4Tb81URM0AFLF_SPJs285eW-KaxMImh7dc9FWXGnIP8lD_lZbu8eYI&usqp=CAU);
+        background-repeat: no-repeat;
+    }
+    75%{
+        background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.oshotimes.com%2Finsights%2Fhealth%2Femotions%2Fhappiness-natural-phenomenon%2F&psig=AOvVaw2-TcxxVEP353kid2qxqKq5&ust=1664441690023000&source=images&cd=vfe&ved=2ahUKEwinid7Ojrf6AhXIi9gFHRxcAmAQr4kDegUIARDgAQ);
+        background-repeat: no-repeat;
+    }
+    100%{
+        background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5Or8KtieIDtS6m4Tb81URM0AFLF_SPJs285eW-KaxMImh7dc9FWXGnIP8lD_lZbu8eYI&usqp=CAU);
+        background-repeat: no-repeat;
+    }
+
+}

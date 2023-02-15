@@ -1,0 +1,18 @@
+.a img{
+    height: 250px;
+    width: 150px;
+    position: relative;
+    z-index: 3;
+}
+.b{
+    height: 250px;
+    width: 150px;
+    position: relative;
+    background-color: rgba(128, 128, 128, 0.489);
+    bottom: 150px;
+    z-index: 2;
+}
+.a img:hover{
+  
+    z-index: 2;
+}

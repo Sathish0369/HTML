@@ -1,0 +1,37 @@
+h1{
+    background-color: brown;
+    color: floralwhite;
+    text-align: center;
+    text-transform: uppercase;
+    text-shadow: 10px 10px 10px chartreuse;
+
+}
+h1:hover{
+    background-color: aqua;
+    color: black;
+}
+.a
+{
+    height: 400px;
+    width: 400px;
+
+}
+.b
+{
+    height: 400px;
+    width: 400px;
+    
+}
+.a:hover{
+    border:10px;
+    border-top-left-radius: 40%;
+    border-bottom-left-radius: 75%;
+    border-style: dotted;
+    filter:opacity(1)
+
+}
+.b:hover{
+    border:1px;
+    border-radius: 25%;
+    filter:grayscale(1)
+}

@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Netflix</title>
+    <link rel="stylesheet" href="Netflix.css">
+</head>
+<body>
+    <div id="home">
+        <button>Sign In</button>
+        <img src="data:image/png;base64,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" alt="">
+        <pre>
+
+
+
+
+
+
+
+
+
+        </pre>
+        
+        <center>   
+        
+        <h1>Unlimitesd movies,Tv<br> shows and more.</h1>
+        <h3>Watch anywhere.Cancel anytime</h3>
+        <h4>Ready to watch? Enter your Email to create or restart your membership.</h4>
+        <input type="text" placeholder="Email address">
+       <input type="button" style="background-color:red;color: white;" value="Get Started">
+             </center>
+             <pre>
+
+
+
+
+             </pre>
+    </div>
+    <pre>
+    </pre>
+<div id="ball">
+    <section class="z">
+        <pre>
+    <h1>Enjoy on your Tv.<br> </h1><h2>h1watch on Smart Tvs, Playstation,xbox,Chromecast,Apple Tv,Blu-ray player and more....</h2>
+    </section>
+    <section id="y">
+    <img src="https://images.wallpapersden.com/image/download/netflix-sas-red-notice-movie_bG5ma2qUmZqaraWkpJRnZWltrWZmamc.jpg" alt="">
+    </section>
+
+
+</pre>
+</div>
+<pre>
+</pre>
+<div id="apple">
+    <section class="a12">
+        <img src="https://www.phoneworld.com.pk/wp-content/uploads/2020/10/seo-watch-free-link-preview.jpg" alt="apple">
+    </section>
+    <section id="a13">
+        <h1>Download your shows to watch offine.</h1>
+        <h3>Save your favouries easily and always have something to watch.</h3>
+    </section>
+</div>
+<pre>
+</pre>
+<div id="cat">
+    <section class="c12">
+        <h1>Watch Everywhere.</h1>
+        <h3>Stream unlimited movies and TV shows on phone,tablet,laptop, and Tv</h3>
+    </section>
+    <section class="c13">
+        <img src="https://i.stack.imgur.com/3T2NS.jpg" alt="cat">
+    </section>
+</div>
+<pre>
+</pre>
+<div id="dark">
+    <section class="a12">
+    <img src="https://images.wallpapersden.com/image/download/stranger-things-hd-netflix-experience_bWlla2mUmZqaraWkpJRmbmdlrWZlbWU.jpg" alt="">    
+    </section>
+    <section id="a13">
+        <h1>Download your shows to watch offine.</h1>
+        <h3>Save your favouries easily and always have something to watch.</h3>
+    </section>
+</div>
+<pre>
+</pre>
+
+
+
+
+
+</body>
+</html>

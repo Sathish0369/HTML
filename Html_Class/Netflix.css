@@ -1,0 +1,49 @@
+#home{
+    background-image: url(https://therecenttimes.com/wp-content/uploads/2021/11/netflix-3-1024x576.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+button{
+    background-color: red;
+    color: white;
+    float: right;
+    margin-right: 50px;
+    margin-top: 25px;
+}
+h1{
+    font-size:xx-large;
+}
+img{
+    margin-left: 100px;
+    margin-top: 100px;
+    height: 80px;
+    width: 150px;
+}
+#ball{
+    display: flex;
+    background-color: black;
+    color: white;
+}
+
+#y{
+    height: 300px;
+    width: 400px;
+    margin-left: 300px;
+    margin-top: 100px;
+}
+#apple{
+    display: flex;
+    background-color: black;
+    color: white;
+}
+#cat{
+    display: flex;
+    background-color: black;
+    color: white;
+}
+#dark{
+    display: flex;
+    background-color: black;
+    color: white;
+}

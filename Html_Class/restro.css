@@ -1,0 +1,149 @@
+#home{
+    background-image: url(https://www.white-ibiza.com/wp-content/uploads/2020/03/white-ibiza-beach-restaurant-aiyanna-ibiza-03.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+ul{
+    display: flex;
+    list-style-type: none;
+    background-color: rgba(128, 128, 128, 0.411);
+}
+a{
+    margin-left: 100px;
+    text-decoration: none;
+    color: white;
+    padding-top: 30px;
+}
+a:hover{
+    color: orange;
+    font-style: italic;
+}
+.a{
+    color: white;
+    font-size: 30px;
+    padding-top: 0px;
+}
+li{
+    padding-top: 40px;
+}
+.b{
+    margin-left: 200px;
+    background-color: transparent;
+    color: white;
+}
+h1{
+    color: white;
+    margin-left: 100px;
+}
+i{
+    color: orange;
+}
+j{
+    color: orange;
+}
+.g{
+    font-size: 20px;
+    color: white;
+    margin-left: 100px;
+}
+.c{
+    border: 1px solid orange;
+    border-radius: 20px;
+    background-color: transparent;
+    padding: 15px;
+    color: white;
+    margin-top: 100px;
+    margin-left: 50px;
+    margin-bottom: 200px;
+
+}
+.c:hover{
+    background-color: orange;
+}
+.z{
+    display: flex;
+}
+#about{
+    background-color: black;
+    display: flex;
+}
+.h{
+    height: 500px;
+    width: 500px;
+    color: white;
+    font-size: 20px;
+    font-style: italic;
+    margin-left: 50px;
+    margin-top: 100px;
+}
+.img{
+    height: 300px;
+    width: 300px;
+    margin-left: 300px;
+    margin-top: 100px;
+}
+.img:hover{
+    height: 325px;
+    width: 315px;
+}
+
+#menu{
+    background-image: url(https://wallpaperaccess.com/full/767033.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    color: aliceblue;
+}
+
+h2{
+    align-items: center;
+    background-color: black;
+    color:white;
+    border-radius: 75%;
+}
+#service{
+    background-color: black;
+    display: flex;
+}
+.l{
+    height: 500px;
+    width: 500px;
+    color: white;
+    font-size: 20px;
+    font-style: italic;
+    margin-left: 50px;
+    margin-top: 100px;
+
+}
+.m{
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+#contact{
+    background-image:url(https://djdo2py1q6zlg.cloudfront.net/magazine/wp-content/uploads/2016/06/beach-dining-KOH-1400x580-v3.jpg) ;
+    background-color: black;
+    display: flex;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.n{
+    height: 500px;
+    width: 500px;
+    color: white;
+    font-size: 20px;
+    font-style: italic;
+    margin-left: 50px;
+    margin-top: 100px;
+
+}
+.o{
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.a1a{
+    float: right;
+    padding-left: 500px;
+}
